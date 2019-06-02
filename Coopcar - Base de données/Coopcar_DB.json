@@ -1,0 +1,53 @@
+[{
+    "type": "header",
+    "version": "4.8.3",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+  },
+  {
+    "type": "database",
+    "name": "Coopcar_DB"
+  },
+  {
+    "type": "table",
+    "name": "History",
+    "database": "Coopcar_DB",
+    "data": [
+
+    ]
+  }, {
+    "type": "table",
+    "name": "MessageFlow",
+    "database": "Coopcar_DB",
+    "data": [
+
+    ]
+  }, {
+    "type": "table",
+    "name": "Messages",
+    "database": "Coopcar_DB",
+    "data": [
+
+    ]
+  }, {
+    "type": "table",
+    "name": "Notes",
+    "database": "Coopcar_DB",
+    "data": [
+
+    ]
+  }, {
+    "type": "table",
+    "name": "Trip",
+    "database": "Coopcar_DB",
+    "data": [
+
+    ]
+  }, {
+    "type": "table",
+    "name": "Users",
+    "database": "Coopcar_DB",
+    "data": [
+
+    ]
+  }
+]
